@@ -1,0 +1,16 @@
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\JsonParser.exe
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\Datasets\Pizza-Factory.json
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\JsonParser.deps.json
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\JsonParser.dll
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\JsonParser.pdb
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.sourcelink.json
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.dll
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\refint\JsonParser.dll
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.pdb
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+D:\Ani\Back-End-Technologies-Basics\Exam-03-11-2024\Task-1\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\ref\JsonParser.dll
